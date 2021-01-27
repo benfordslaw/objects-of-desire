@@ -8,4 +8,4 @@ Created using Allison Parrish's [Gutenberg, dammit](https://github.com/aparrish/
 3. Get the direct object out of every clause in which the verb has something to do with love or desire or longing
 4. Put those direct objects into a text file
 
-This resulted in 18,336 phrases of things that are wanted.
+This resulted in 18,336 things that are wanted.
